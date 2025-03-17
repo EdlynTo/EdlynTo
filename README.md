@@ -1,6 +1,6 @@
 ## Hi, I'm Edlyn! 👋
 
-- 🍁I'm from Toronto, Canada
+- 🍁 I'm from Toronto, Canada
 - 🔭 I'm currently working on Aidify.ca
 
 <!--
