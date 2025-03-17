@@ -1,5 +1,8 @@
 ## Hi, I'm Edlyn! 👋
 
+- 🍁I'm from Toronto, Canada
+- 🔭 I'm currently working on Aidify.ca
+
 <!--
 **EdlynTo/EdlynTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
